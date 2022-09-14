@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1662807339 source:i:\tutorials\embedded systems tutorial\amit\amit-assignments\simpledb\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1662806970 source:i:\tutorials\embedded systems tutorial\amit\amit-assignments\simpledb\structure.c
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+	"main.h"
+
+1662806963 i:\tutorials\embedded systems tutorial\amit\amit-assignments\simpledb\structure.h
+	"main.h"
+
+1662798811 i:\tutorials\embedded systems tutorial\amit\amit-assignments\simpledb\main.h
+
+1663176332 source:h:\simpledb\structure.c
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+
+1663176332 h:\simpledb\structure.h
+	<stdio.h>
+	<stdlib.h>
+
+1663051966 h:\simpledb\main.h
+
+1663105520 source:h:\simpledb\main.c
+	"structure.h"
+
